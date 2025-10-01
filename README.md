@@ -1,4 +1,4 @@
-# repoGPDS
+# Sprint Backlog 1
 
 Subsecciones o Tareas / Tiempo de estimación por horas
 1. El usuario puede ingresar sus datos de forma segura con una interfaz usable /	8
@@ -9,3 +9,5 @@ Subsecciones o Tareas / Tiempo de estimación por horas
 6. El usuario puede identificar rápidamente qué libros están disponibles para préstamo /	2
 7. El usuario puede encontrar libros específicos buscando por título o autor /	5
 8. El usuario obtiene resultados de búsqueda precisos / 2
+
+Fecha de culminación del Sprint Backlog 1: 02 Octubre
